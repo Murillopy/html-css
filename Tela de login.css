@@ -1,0 +1,64 @@
+ 
+  ​​/*PAGINA DO SITE*/​  
+ ​ ​body​{  
+ ​ ​    ​margin​​:​​ ​0​;  
+ ​ ​    ​padding​​:​​ ​0​;  
+ ​ ​    ​font​-​family​​:​​ sans​-​serif;  
+ ​ ​    ​background​​:​​ ​​#​​34495e​;  
+ ​ ​}  
+ ​ ​​/*PAGINA DO SITE*/​  
+ ​   
+ ​ ​​/*TEXTO DENTRO DA CAIXA DE LOGIN*/​  
+ ​ ​.​box​ ​h1​{  
+ ​ ​    ​col​or​​​:​​white;  
+ ​ ​    ​text​-​transf​or​m​​:​​ uppercase;  
+ ​ ​    ​font​-​weight​​:​​ ​500​;  
+ ​ ​}  
+ ​ ​​/*TEXTO DENTRO DA CAIXA DE LOGIN*/​  
+ ​   
+ ​ ​​/*CAIXA DE LOGIN*/​  
+ ​ ​.​box​{  
+ ​ ​    ​width​​:​​ ​300​px​;  
+ ​ ​    ​padding​​:​​ ​40​px​;  
+ ​ ​    ​position​​:​​ absolute;  
+ ​ ​    ​​to​p​​:​​ ​50​%​;  
+ ​ ​    ​left​​:​​ ​50​%​;  
+ ​ ​    ​transf​or​m​​:​​ ​translate​(​-50​%​​,​​-50​%​);  
+ ​ ​    ​background​​:​​ ​​#​​191919​;  
+ ​ ​    ​text​-​align​​:​​ center;  
+ ​ ​    ​b​or​der​-​radius​​:​​ ​6​px​;  
+ ​ ​}  
+ ​ ​.​box​ ​input​[​type​ ​​=​​ ​​"text"​​]​​,​​.​box​ ​input​[​type​ ​​=​​ ​​"password"​​]{  
+ ​ ​    ​b​or​der​​:​​0​;  
+ ​ ​    ​background​​:​​ none;  
+ ​ ​    ​display​​:​​block;  
+ ​ ​    ​margin​​:​​ ​20​px​ au​to​;  
+ ​ ​    ​text​-​align​​:​​ center;  
+ ​ ​    ​b​or​der​​:​​ ​2​px​ solid ​​#​​3498db​;  
+ ​ ​    ​padding​​:​​ ​14​px​ ​10​px​;  
+ ​ ​    ​width​​:​​ ​200​px​;  
+ ​ ​    ​outline​​:​​ none;  
+ ​ ​    ​col​or​​​:​​ white;  
+ ​ ​    ​b​or​der​-​radius​​:​​ ​24​px​;  
+ ​ ​    ​transition​​:​​ ​0.25​s​;  
+ ​ ​}  
+ ​ ​.​box​ ​input​[​type​ ​​=​​ ​​"text"​​]​​:​​focus​​,​​.​box​ ​input​[​type​ ​​=​​ ​​"password"​​]​​:​​focus​{  
+ ​ ​     ​width​​:​​ ​280​px​;  
+ ​ ​     ​b​or​der​-​col​or​​​:​​ ​​#​​2ecc71​;  
+ ​ ​}  
+ ​ ​.​box​ ​input​[​type​ ​​=​​ ​​"submit"​​]{  
+ ​ ​    ​b​or​der​​:​​0​;  
+ ​ ​    ​background​​:​​ none;  
+ ​ ​    ​display​​:​​ block;  
+ ​ ​    ​margin​​:​​ ​20​px​ au​to​;  
+ ​ ​    ​text​-​align​​:​​ center;  
+ ​ ​    ​b​or​der​​:​​ ​2​px​ solid ​​#​​2ecc71​;  
+ ​ ​    ​padding​​:​​14​px​ ​40​px​;  
+ ​ ​    ​b​or​der​-​radius​​:​​ ​30​px​;  
+ ​ ​    ​col​or​​​:​​white;  
+ ​ ​    ​curs​or​​​:​​pointer;  
+ ​ ​}  
+ ​ ​.​box​ ​input​[​type​ ​​=​​ ​​"submit"​​]​​:​​hover​{  
+ ​ ​    ​background​​:​​ ​​#​​2ecc71​;  
+ ​ ​}  
+ ​ ​​/*CAIXA DE LOGIN*/
